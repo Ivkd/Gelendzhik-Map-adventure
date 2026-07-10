@@ -1,0 +1,7 @@
+.env
+node_modules/
+dist/
+.vscode/
+*.log
+SHARE_INSTRUCTIONS.md
+SUPABASE_SETUP.md
