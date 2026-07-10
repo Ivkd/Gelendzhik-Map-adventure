@@ -43,4 +43,4 @@ export async function compressImage(
     reader.onerror = (e) => reject(e)
     reader.readAsDataURL(file)
   })
-}
+}   

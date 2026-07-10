@@ -103,6 +103,7 @@ export default function App() {
       <MapContainer
         center={GELENDZHIK_CENTER}
         zoom={13}
+        zoomControl={false}
         className="map-container"
       >
         <TileLayer
